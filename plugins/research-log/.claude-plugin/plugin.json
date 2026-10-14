@@ -1,0 +1,7 @@
+{
+  "name": "research-log",
+  "version": "0.1.0",
+  "description": "Evidence-first design research logging: observations, claims, decisions. Facts, never verdicts.",
+  "author": { "name": "Tyler Hagy" },
+  "license": "MIT"
+}

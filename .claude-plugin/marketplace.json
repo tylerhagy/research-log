@@ -1,0 +1,11 @@
+{
+  "name": "research-log",
+  "owner": { "name": "Tyler Hagy" },
+  "plugins": [
+    {
+      "name": "research-log",
+      "source": "./plugins/research-log",
+      "description": "Evidence-first design research logging: observations, claims, decisions. Facts, never verdicts."
+    }
+  ]
+}
